@@ -25,18 +25,33 @@
 
 </div>
 </body>
-
-
-
-
-
-
-
 </html>
 
 
 
 
+
+
+
+/*css styling */
+html{background-color: black;}
+.poster{
+width:50%;
+
+margin-top: 100px;
+margin-bottom: 100px;
+margin-left:25%;
+
+
+
+color: white;   
+font-family:Libre Baskerville;
+text-align: center;
+}
+.motivation-image{
+    border: 5px solid white;
+    width:100%;
+}
 
 
 
